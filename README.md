@@ -1,4 +1,4 @@
 # Calculator
 Calculator created using JavaScript, HTML and CSS.
 
-![Calculator](https://github.com/LimaLuciano/Calculator/assets/77978711/edf18459-bb70-4f58-a486-379301dce722)
+![Calculator](https://github.com/LimaLuciano/Calculator/assets/77978711/84f772a2-6773-431d-a12f-7c09c933c318)
